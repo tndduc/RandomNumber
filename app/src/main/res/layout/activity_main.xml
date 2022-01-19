@@ -7,7 +7,7 @@
     tools:context=".MainActivity">
 
     <Button
-        android:id="@+id/buttonRandom"
+        android:id="@+id/button"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginBottom="139dp"
@@ -22,7 +22,7 @@
         android:layout_height="wrap_content"
         android:layout_marginBottom="139dp"
         android:text="TextView"
-        app:layout_constraintBottom_toTopOf="@+id/buttonRandom"
+        app:layout_constraintBottom_toTopOf="@+id/button"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.498"
         app:layout_constraintStart_toStartOf="parent" />

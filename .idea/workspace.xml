@@ -7,7 +7,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a286bc1e-332c-49ac-8db2-d09726882ec0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/RandomNumber.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/RandomNumber.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/app/app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/app/app.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/randomnumber/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/randomnumber/MainActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -127,6 +134,22 @@
       <screen x="0" y="0" width="1366" height="720" />
     </state>
     <state x="541" y="173" key="AndroidCreateXmlResourceDialog/0.0.1366.720@0.0.1366.720" timestamp="1642557596698" />
+    <state width="1323" height="176" key="GridCell.Tab.0.bottom" timestamp="1642566075681">
+      <screen x="0" y="0" width="1366" height="720" />
+    </state>
+    <state width="1323" height="176" key="GridCell.Tab.0.bottom/0.0.1366.720@0.0.1366.720" timestamp="1642566075681" />
+    <state width="1323" height="176" key="GridCell.Tab.0.center" timestamp="1642566075681">
+      <screen x="0" y="0" width="1366" height="720" />
+    </state>
+    <state width="1323" height="176" key="GridCell.Tab.0.center/0.0.1366.720@0.0.1366.720" timestamp="1642566075681" />
+    <state width="1323" height="176" key="GridCell.Tab.0.left" timestamp="1642566075681">
+      <screen x="0" y="0" width="1366" height="720" />
+    </state>
+    <state width="1323" height="176" key="GridCell.Tab.0.left/0.0.1366.720@0.0.1366.720" timestamp="1642566075681" />
+    <state width="1323" height="176" key="GridCell.Tab.0.right" timestamp="1642566075681">
+      <screen x="0" y="0" width="1366" height="720" />
+    </state>
+    <state width="1323" height="176" key="GridCell.Tab.0.right/0.0.1366.720@0.0.1366.720" timestamp="1642566075681" />
     <state x="184" y="3" key="SettingsEditor" timestamp="1642557502019">
       <screen x="0" y="0" width="1366" height="720" />
     </state>
